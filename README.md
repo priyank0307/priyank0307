@@ -39,6 +39,16 @@
 
 ---
 
+## 🛠️ Languages - Frameworks - Tools 🛠️
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,postman,vscode,eclipse,git,github,docker,azure" />
+  </a>
+</p>
+
+---
+
 ## 📌 Featured Projects & Research
 
 * **[Automated Ticket Categorization Using BERT & Azure ML](https://github.com/priyank0307/Research-Publication)** 
