@@ -54,7 +54,7 @@
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/priyank-raj-0307" target="_blank">
+  <a href="https://www.linkedin.com/in/priyank-raj-440552254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priyankraj0307@gmail.com">
