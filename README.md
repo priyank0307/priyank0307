@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Systems Engineer & Software Developer building scalable backend architectures and intelligent AI systems.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyank0307&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://github.com/priyank0307?tab=repositories"><img src="https://img.shields.io/github/repos/priyank0307?style=flat-square&color=orange" alt="Repositories" /></a>
-  <img src="https://img.shields.io/badge/Systems_Engineer-Infosys-blue?style=flat-square&logo=icloud" alt="Infosys" />
+  <img src="https://img.shields.io/badge/Software_developer-Infosys-blue?style=flat-square&logo=icloud" alt="Infosys" />
 </p>
 
 ---
