@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyank Raj</h1>
-<h3 align="center">A passionate Systems Engineer & Software Developer building scalable backend architectures and intelligent AI systems.</h3>
+<h3 align="center">A passionate Software Developer building scalable backend architectures and intelligent AI systems.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_developer-Infosys-blue?style=flat-square&logo=icloud" alt="Infosys" />
