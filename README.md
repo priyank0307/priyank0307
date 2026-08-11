@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,postman,vscode,eclipse,git,github,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,postman,vscode,eclipse,git,github,docker,azure,androidstudio" />
   </a>
 </p>
 
