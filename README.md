@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Status-Consistent%20Commits-success?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/commits-since/priyank0307/Research-Publication/HEAD?style=for-the-badge&color=blue&label=Recent%20Activity" alt="Activity Status" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyank0307&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=21" alt="GitHub Streak" />
 </p>
 
 ---
