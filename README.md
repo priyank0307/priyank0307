@@ -52,7 +52,7 @@
 
 ## 📌 Featured Projects & Research
 
-* **[Automated Ticket Categorization Using BERT & Azure ML](https://github.com/priyank0307/Research-Publication)**
+* **[Automated Ticket Categorization Using BERT & Azure ML](https://github.com/priyank0307/ai-assisted-customer-support-)**
   * Published research focusing on RAG pipelines, semantic similarity matching via FAISS, and cloud deployment on Azure ML.
 * **[Journal Management System](https://github.com/priyank0307/Journal-Management-System)**  
   * Modular backend built with Spring Boot, MongoDB, and RESTful APIs featuring robust exception handling and validation.
