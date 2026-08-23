@@ -54,13 +54,12 @@
 
 * **[Automated Ticket Categorization Using BERT & Azure ML](https://github.com/priyank0307/Research-Publication)**
   * Published research focusing on RAG pipelines, semantic similarity matching via FAISS, and cloud deployment on Azure ML.
-* **[Journal Management System](https://github.com/priyank0307/Journal-Management-System)** 
+* **[Journal Management System](https://github.com/priyank0307/Journal-Management-System)**  
   * Modular backend built with Spring Boot, MongoDB, and RESTful APIs featuring robust exception handling and validation.
-* **[Distributed Transaction Manager]((https://github.com/priyank0307/transaction-manager))** 
+* **[Distributed Transaction Manager](https://github.com/priyank0307/transaction-manager)**  
   * High-performance C++ systems application utilizing multithreading and custom TCP socket communication protocols.
-* **[Daily DSA Practice](https://github.com/priyank0307/Coding-Journey)** 
+* **[Daily DSA Practice](https://github.com/priyank0307/Coding-Journey)**  
   * A structured repository tracking optimal problem-solving patterns, algorithms, and data structures implemented primarily in Java.
-
 ---
 
 ## 🤝 Connect with Me
