@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_developer-Infosys-blue?style=flat-square&logo=icloud" alt="Infosys" />
-</p>
+</p>  
 
 ---
 
