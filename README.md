@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyank Raj</h1>   
+<h1 align="center">Hi 👋, I'm Priyank Raj</h1>    
 <h3 align="center">A passionate Software Developer building scalable backend architectures and intelligent AI systems.</h3>
 
 <p align="center">
@@ -23,9 +23,8 @@
   <img src="https://img.shields.io/badge/Status-Consistent%20Commits-success?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyank0307&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=72" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyank0307&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=73" alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -36,6 +35,7 @@
 | **Languages** | `Java`, `C++`, `Python`, `JavaScript`, `SQL / NoSQL` |
 | **Backend & Frameworks** | `Spring Boot`, `RESTful APIs`, `Spring Security`, `Node.js`, `Express` |
 | **Cloud & AI / ML** | `Azure Machine Learning`, `BERT / DistilBERT`, `FAISS`, `PyTorch`, `Streamlit` |
+| **Mobile Development** | `Android SDK`, `SwiftUI`, `Kotlin` |
 | **Databases & Caching** | `MongoDB`, `MySQL`, `Redis` |
 | **Developer Tools** | `Git`, `GitHub`, `Docker`, `Postman`, `Eclipse`, `VS Code` |
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,postman,vscode,eclipse,git,github,docker,azure,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,postman,vscode,eclipse,git,github,docker,azure,android,swift" />
   </a>
 </p>
 
