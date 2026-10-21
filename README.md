@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyank Raj</h1>             
+<h1 align="center">Hi 👋, I'm Priyank Raj</h1>               
 <h3 align="center">A passionate Software Developer building scalable backend architectures and intelligent AI systems.</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Status-Consistent%20Commits-success?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyank0307&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=91" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyank0307&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=92" alt="GitHub Streak" />
 </p>
 
 ---
